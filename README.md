@@ -19,7 +19,7 @@ Hay 2 formas de ver la web:
 ### ✅ 1. Desde GitHub Pages (visual solamente)
 [https://salvadoricai.github.io/p4_web/](https://salvadoricai.github.io/p4_web/)
 
-> **⚠️ Esta versión no permite enviar mensajes porque el backend está en `localhost`**
+> **⚠️ No se permite enviar mensajes porque el backend está en `localhost`**
 
 ---
 
