@@ -29,5 +29,6 @@ Hay 2 formas de ver la web:
 
 ## ⚙️ FUNCIONAMIENTO
 
-- En la sección de CONTACTO de la página web, se podrán enviar loss mensajes al servidor. 
-- En la seccion mensajes, se podrán descargar los distintos mensajes que se han enviado, así como editarlos y/o eliminarlos.
+- En la sección de CONTACTO de la página web, se podrán enviar los mensajes al servidor. 
+- En la sección mensajes, se cargarán los distintos mensajes que se han enviado.
+- Cuando se muestren los mensajes, se podrán eliminar y editar tanto el correo electrónico y el menasje 
